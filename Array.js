@@ -1,3 +1,0 @@
-function unipui(arr){
-fas 
-}
